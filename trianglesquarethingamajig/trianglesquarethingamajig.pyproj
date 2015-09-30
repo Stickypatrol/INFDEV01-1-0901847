@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>621a8b4d-8751-442d-b697-5c07b8e00f0e</ProjectGuid>
+    <ProjectGuid>8a8704cf-ec5d-4a8e-83cd-12fc47f5a863</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Assignments.py</StartupFile>
+    <StartupFile>trianglesquarethingamajig.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Assignments</Name>
-    <RootNamespace>Assignments</RootNamespace>
+    <Name>trianglesquarethingamajig</Name>
+    <RootNamespace>trianglesquarethingamajig</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assignments.py" />
+    <Compile Include="trianglesquarethingamajig.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
