@@ -1,6 +1,6 @@
 ﻿import math
 
-inputnum = int(raw_input("input the size of the smiley you wish to draw, at smaller sizes it may be extremely ugly: "))+1
+inputnum = int(raw_input("input the size of the smiley you wish to draw, at smaller sizes it may be very ugly: "))+1
 outputstr = ""
 radius = inputnum/2
 for y in range(inputnum):
