@@ -2,4 +2,4 @@
 accumulator = ""
 for i in range(len(inputstr)):
     accumulator += inputstr[len(inputstr)-1-i]
-print accumulator
+print accumulator   

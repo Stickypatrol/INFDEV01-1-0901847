@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8df490ab-961e-4a6b-b927-037c4f3bf1fb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>5.3.a.py</StartupFile>
+    <StartupFile>5.2.a.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
