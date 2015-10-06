@@ -23,10 +23,8 @@ def checkwhowins(a, b):
 
             
     else:
-        print "Draw, too bad" 
-#I use the fact that the options have a numerical relationship. if A == 0(zeroeth index of the list) then every other number, starting from 1, loses.
-#I use modulus because the exact number does not matter, the only thing that matters if is it's an even number and the relationship with the other.
-#the items are in a specific order but which item you start with is arbitrary because the relationship is circular.
+        print "Draw, too bad"
+
 while 1==1:
     print "Let's play a game!"
     playerA = inputandvalidate("A")
