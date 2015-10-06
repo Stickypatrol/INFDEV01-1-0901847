@@ -26,9 +26,7 @@
     <Compile Include="5.2.a.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="5.3.a.py">
-      <SubType>Code</SubType>
-    </Compile>
+    <Compile Include="5.3.a.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

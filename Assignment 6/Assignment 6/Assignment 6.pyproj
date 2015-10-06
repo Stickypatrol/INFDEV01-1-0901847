@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>47a5f807-5013-42a9-8c00-6893ef64647f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Smiley.py</StartupFile>
+    <StartupFile>fullcircle.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
