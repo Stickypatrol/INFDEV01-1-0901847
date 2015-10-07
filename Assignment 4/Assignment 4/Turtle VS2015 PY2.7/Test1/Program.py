@@ -44,9 +44,14 @@ def Program():
     elif x == 100:
         turn (10)
     if x == 32:
-        for i in range(18):
+        for i in range(4):
             forward(10)
-            turn(20)
-            turtle.stamp()
+            turn(90)
+            forward(10)
+            turn(180)
+            forward(10)
+            turn(270)
+            forward(10)
+            turn(90)
 run(Program)
 from End import *
